@@ -15,6 +15,11 @@ Add the navbar to the README
 ![image](https://user-images.githubusercontent.com/87757401/129438912-750132a9-5534-47fe-9ca8-3ec0e507c4c6.png)
 
 
-__ home page image __
+__home page image__
 - The home page includ a image of a f1 car whit a slogan from the start of a f1 race
 - ![image](https://user-images.githubusercontent.com/87757401/129479163-33459be5-f3df-4e6f-b220-9dc48a820bd3.png)
+
+
+__home page text__
+- Add paragraf text about Foruma One. this paragraf text will allow the user to get a understanding about Foruma One.
+- ![image](https://user-images.githubusercontent.com/87757401/129480173-89faf67f-67d6-405b-a27d-6e3a408ec92c.png)
