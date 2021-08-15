@@ -13,3 +13,8 @@ Add the Contrast Grid check to the README
 - The navbar makes it easily for the user to navigate from page to page on all platforms.
 Add the navbar to the README
 ![image](https://user-images.githubusercontent.com/87757401/129438912-750132a9-5534-47fe-9ca8-3ec0e507c4c6.png)
+
+
+__ home page image __
+- The home page includ a image of a f1 car whit a slogan from the start of a f1 race
+- ![image](https://user-images.githubusercontent.com/87757401/129479163-33459be5-f3df-4e6f-b220-9dc48a820bd3.png)
